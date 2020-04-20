@@ -1,10 +1,12 @@
 {
   "development": {
-    "apiUrl": "https://gatsby.ghost.io",
-    "contentApiKey": "9cc5c67c358edfdd81455149d0"
+    "apiUrl": "https://johnserrano.herokuapp.com",
+    "contentApiKey": "7f58159915c1ebf0a37b213edb",
+    "version": "v2"
   },
   "production": {
-    "apiUrl": "https://gatsby.ghost.io",
-    "contentApiKey": "9cc5c67c358edfdd81455149d0"
+    "apiUrl": "https://johnserrano.herokuapp.com",
+    "contentApiKey": "7f58159915c1ebf0a37b213edb",
+    "version": "v2"
   }
 }
